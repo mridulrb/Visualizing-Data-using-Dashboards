@@ -137,7 +137,6 @@ https://www.crowdcast.io/e/visualize-data
 
 ![center](https://github.com/mridulrb/Visualizing-Data-using-Dashboards/blob/main/images/slide_images/Slide16.jpeg?raw=true)
 
-
 +++ {"slideshow": {"slide_type": "slide"}}
 
 ## License
