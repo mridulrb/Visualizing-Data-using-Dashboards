@@ -9,3 +9,6 @@ The marketing campaigns data set used in this tutorial is free, open source, and
 The tool in this tutorial uses IBM Cognos Dashboards, which is available as an embedded service in IBM Watson Studio.
 
 Link to the Tutorial - https://developer.ibm.com/technologies/analytics/tutorials/create-interactive-dashboards-on-watson-studio/
+IBM Cloud Sign-up: https://ibm.biz/VisData
+Event recording: https://www.crowdcast.io/e/visualize-data
+Slides: https://mridulrb.github.io/Visualizing-Data-using-Dashboards/#/
