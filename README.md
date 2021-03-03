@@ -12,4 +12,4 @@ Link to the Tutorial - https://developer.ibm.com/technologies/analytics/tutorial
 IBM Cloud Sign-up: https://ibm.biz/VisData <br/>
 Event recording: https://www.crowdcast.io/e/visualize-data <br/>
 Slides: https://mridulrb.github.io/Visualizing-Data-using-Dashboards/#/ <br/>
-Survey: ibm.biz/BdfsKZ
+Survey: https://ibm.biz/BdfsKZ
