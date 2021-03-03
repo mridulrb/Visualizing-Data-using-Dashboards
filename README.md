@@ -11,4 +11,5 @@ The tool in this tutorial uses IBM Cognos Dashboards, which is available as an e
 Link to the Tutorial - https://developer.ibm.com/technologies/analytics/tutorials/create-interactive-dashboards-on-watson-studio/ <br/>
 IBM Cloud Sign-up: https://ibm.biz/VisData <br/>
 Event recording: https://www.crowdcast.io/e/visualize-data <br/>
-Slides: https://mridulrb.github.io/Visualizing-Data-using-Dashboards/#/
+Slides: https://mridulrb.github.io/Visualizing-Data-using-Dashboards/#/ <br/>
+Survey: ibm.biz/BdfsKZ
